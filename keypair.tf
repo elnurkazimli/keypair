@@ -1,4 +1,4 @@
-resource "aws_key_pair" "elnur" {
-  key_name   = "elnurtest"
+resource "aws_key_pair" "elnur1" {
+  key_name   = "elnurtest1"
   public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC2962b4iK+xLxtz+hhg+lqC1GfixQHdOaIse68pKYoqE4GEmKuz/EUXFSDm27UlzFd9vnO52aSlntf4w++hySLua7RvJ1aqTpowrSFSV49DrejaQrgbUC2UD6QOPnHYJ/vct3wQ4Thkn3+YP3WYCGaT7PUGsO1OC2lgSMiJoY9QU5fxw3haCnMtuG6QJpLFvCoeKSLAjOoHdzmdjruQfXLmFMw//TRN9F20G5umGMO9tGQc8cL1PTVQ7xj0mzTiacV7viKhj4wvOsXNrKklfjGJKhxzW3FxQz6dHTM1Rr0AYqspLQ799WSKpcBgE4Rixv5TFNSCbvFlv3SdBjnpZaE9NtqkROj43qmBKQBn8+qe6lqEijgsitSNJ3Foy7jDl6hNIW04Dltxqd79ZT6moIci79B1wYMmnvb2GtKGugWV7hh72da0+xQk2H0l+uxl9s8EOMK+Orw12IWNMMOXhkFcnDTXX71ef7Kcjjxh0icibp0csnse63aFkQ9ag7SLVk= elnurkazimli@Elnurs-MacBook-Air.local"
 }
