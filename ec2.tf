@@ -26,7 +26,7 @@ resource "aws_network_interface" "foo" {
 }
 
 resource "aws_instance" "foo" {
-  ami           = "ami-051f8a213df8bc089" # us-east-1
+  ami           = "ami-018823602a44dea93" # us-east-1
   instance_type = "t2.micro"
 
   network_interface {
