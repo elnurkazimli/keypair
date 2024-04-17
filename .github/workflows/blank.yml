@@ -9,7 +9,6 @@ jobs:
   terraform:
     runs-on: ubuntu-latest
 
-      # Replace with your desired Terraform version
 
     steps:
     - name: Checkout Repository
